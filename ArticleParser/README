@@ -1,0 +1,5 @@
+Utilisation :
+java -jar parser-1.0.jar (--json) FICHIER_1 FICHIER_2 ...
+
+Les fichiers générés lors de l'utilisation de ce programme seont placés
+dans le répertoire courant.
