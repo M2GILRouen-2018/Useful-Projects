@@ -21,13 +21,26 @@ public enum Format {
         }
     };
 
+    // METHODE STATIQUE
+    public static Format fromString(String extension) {
+        for (Format format : Format.values()) {
+            if (format.getExtension().equals(extension)) {
+                return format;
+            }
+        }
+        return null;
+    }
+
+
     // ATTRIBUTS
     private final String extension;
+
 
     // CONSTRUCTEUR
     private Format(String extension) {
         this.extension = extension;
     }
+
 
     // COMMANDES
     public abstract String format(String txt);
