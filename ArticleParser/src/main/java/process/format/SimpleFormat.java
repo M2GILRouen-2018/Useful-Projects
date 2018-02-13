@@ -1,7 +1,13 @@
+package process.format;
+
 import org.json.JSONObject;
 import org.json.XML;
 
-public enum Format {
+/**
+ * Permet de définir des format de sortie, à partir du flux
+ * XML entrant
+ */
+enum SimpleFormat implements Format {
     // VALEURS
     DEFAULT("xml") {
         public String format(String txt) {
@@ -21,29 +27,17 @@ public enum Format {
         }
     };
 
-    // METHODE STATIQUE
-    public static Format fromString(String extension) {
-        for (Format format : Format.values()) {
-            if (format.getExtension().equals(extension)) {
-                return format;
-            }
-        }
-        return null;
-    }
-
-
     // ATTRIBUTS
     private final String extension;
 
 
     // CONSTRUCTEUR
-    private Format(String extension) {
+    private SimpleFormat(String extension) {
         this.extension = extension;
     }
 
 
     // COMMANDES
-    public abstract String format(String txt);
     public String getExtension() {
         return extension;
     }

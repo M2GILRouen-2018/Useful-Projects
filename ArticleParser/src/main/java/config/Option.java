@@ -1,3 +1,7 @@
+package config;
+
+import process.format.Format;
+
 /**
  * Permet de représenter les arguments optionnels du parser, qui servent
  * à la modification de la configuration utilisée.
@@ -8,12 +12,12 @@
 public enum Option {
     // VALEURS
     /**
-     * Permet de définir les différents formats à utiliser.
+     * Permet de définir les différents format à utiliser.
      */
     FORMAT("-f") {
         public void applyEffectOn(Config config, String[] parameters) {
             for (String extension : parameters) {
-                // Dans le cas "-all", on ajoute tous les formats possible
+                // Dans le cas "-all", on ajoute tous les format possible
                 if (extension.equals("all")) {
                     for (Format format : Format.values()) {
                         config.addFormat(format);
@@ -61,7 +65,6 @@ public enum Option {
     };
 
     // METHODES DE CLASSE
-
     /**
      * Récupère l'option correspondant à chaine fournie
      * (Identifie la ressemblance en début de chaîne en tant que flag d'option)
@@ -84,7 +87,7 @@ public enum Option {
 
 
     // CONSTRUCTEUR
-    private Option(String flag) {
+    Option(String flag) {
         this.flag = flag;
     }
 

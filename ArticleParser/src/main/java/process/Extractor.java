@@ -1,3 +1,8 @@
+package process;
+
+import config.Config;
+import process.format.Format;
+
 import java.io.*;
 import java.util.HashMap;
 import java.util.Map;
@@ -21,7 +26,14 @@ public class Extractor {
      */
     private final Config config;
 
+    /**
+     * Le nombre d'articles parsés
+     */
     private int articleCount;
+
+    /**
+     * L'id du dernier article lu
+     */
     private long last_pmid;
 
 
@@ -44,7 +56,7 @@ public class Extractor {
      */
     public BufferedWriter getWriter(Format format) throws IOException {
         if (!writers.containsKey(format)) {
-            throw new AssertionError(String.format("Format %s non supporté...", format.toString()));
+            throw new AssertionError(String.format("process.format.Format %s non supporté...", format.toString()));
         }
 
         BufferedWriter writer = writers.get(format);
@@ -77,6 +89,7 @@ public class Extractor {
      */
     public void extract() {
         for (String filepath : config.getFiles()) {
+            long startTime = System.currentTimeMillis();
             System.out.println(String.format("--------\n>> Parsing de %s ...", filepath));
 
             // Définition du flux d'entrée
@@ -99,7 +112,7 @@ public class Extractor {
                         articleBuilder = new StringBuilder();
                     }
 
-                    // Enregistrement de la lgine
+                    // Enregistrement de la ligne
                     if (articleBuilder != null) {
                         articleBuilder.append(line);
                         articleBuilder.append('\n');
@@ -131,7 +144,10 @@ public class Extractor {
             } catch (Exception exc) {
                 exc.printStackTrace();
             }
-            System.out.println(String.format(">> Document %s parsé !", filepath));
+
+            // Annonce de fin de parsing du document
+            long delta = System.currentTimeMillis() - startTime;
+            System.out.println(String.format(">> Document %s parsé ! (%d ms)", filepath, delta));
         }
 
         reset();

@@ -1,0 +1,3082 @@
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29427970</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-3336</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>349</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>07</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of hazardous materials</Title>
+                <ISOAbbreviation>J. Hazard. Mater.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Removal of antiretroviral drugs stavudine and zidovudine in water under UV254 and UV254/H2O2 processes: Quantum yields, kinetics and ecotoxicology assessment.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>195-204</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0304-3894(18)30059-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jhazmat.2018.01.052</ELocationID>
+            <Abstract>
+                <AbstractText>The concentration of antiretroviral drugs in wastewater treatment plants (WWTP) effluents and surface waters of many countries has increased significantly due to their widespread use for HIV treatment. In this study, the removal of stavudine and zidovudine under UV254 photolysis or UV254/H2O2 was investigated in a microcapillary film (MCF) photoreactor, using minimal water samples quantities. The UV254 quantum yield of zidovudine, (2.357 ± 0.0589)·10-2 mol ein-1 (pH 4.0-8.0), was 28-fold higher that the yield of stavudine (8.34 ± 0.334)·10-4 mol ein-1 (pH 6.0-8.0). The second-order rate constant kOH,iof reaction of hydroxyl radical with the antiretrovirals (UV254/H2O2 process) were determined by kinetics modeling: (9.98 ± 0.68)·108 M-1 s-1 (pH 4.0-8.0) for zidovudine and (2.03 ± 0.18)·109 M-1 s-1 (pH 6.0-8.0) for stavudine. A battery of ecotoxicological tests (i.e. inhibition growth, bioluminescence, mutagenic and genotoxic activity) using bacteria (Aliivibrio fischeri, Salmonella typhimurium), crustacean (Daphnia magna) and algae (Raphidocelis subcapitata) revealed a marked influence of the UV dose on the ecotoxicological activity. The UV254/H2O2 treatment process reduced the ecotoxicological risk associated to direct photolysis of the antiretrovirals aqueous solutions, but required significantly higher UV254 doses (≥2000 mJ cm-2) in comparison to common water UV disinfection processes.</AbstractText>
+                <CopyrightInformation>Crown Copyright © 2018. Published by Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Russo</LastName>
+                    <ForeName>Danilo</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dipartimento di Ingegneria Chimica, dei Materiali e della Produzione Industriale, Università di Napoli Federico II, p.le V. Tecchio 80, Napoli, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Siciliano</LastName>
+                    <ForeName>Antonietta</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dipartimento di Biologia, Università di Napoli Federico II, Complesso Universitario Monte Sant'Angelo, via Cinthia 4, Napoli, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guida</LastName>
+                    <ForeName>Marco</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dipartimento di Biologia, Università di Napoli Federico II, Complesso Universitario Monte Sant'Angelo, via Cinthia 4, Napoli, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Andreozzi</LastName>
+                    <ForeName>Roberto</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dipartimento di Ingegneria Chimica, dei Materiali e della Produzione Industriale, Università di Napoli Federico II, p.le V. Tecchio 80, Napoli, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reis</LastName>
+                    <ForeName>Nuno M</ForeName>
+                    <Initials>NM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical Engineering, University of Bath, Claverton Down, Bath BA2 7AY, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li Puma</LastName>
+                    <ForeName>Gianluca</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Environmental Nanocatalysis &amp; Photoreaction Engineering Department of Chemical Engineering, Loughborough University, Loughborough LE11 3TU, UK. Electronic address: G.Lipuma@lboro.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marotta</LastName>
+                    <ForeName>Raffaele</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dipartimento di Ingegneria Chimica, dei Materiali e della Produzione Industriale, Università di Napoli Federico II, p.le V. Tecchio 80, Napoli, Italy. Electronic address: rmarotta@unina.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Hazard Mater</MedlineTA>
+            <NlmUniqueID>9422688</NlmUniqueID>
+            <ISSNLinking>0304-3894</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Antiretroviral</Keyword>
+            <Keyword MajorTopicYN="N">Genotoxicity</Keyword>
+            <Keyword MajorTopicYN="N">Microreactor</Keyword>
+            <Keyword MajorTopicYN="N">Mutagenicity</Keyword>
+            <Keyword MajorTopicYN="N">Photodegradation</Keyword>
+            <Keyword MajorTopicYN="N">Stavudine</Keyword>
+            <Keyword MajorTopicYN="N">Water reuse</Keyword>
+            <Keyword MajorTopicYN="N">Zidovudine</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>08</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29427970</ArticleId>
+            <ArticleId IdType="pii">S0304-3894(18)30059-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jhazmat.2018.01.052</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29427917</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0046</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>185</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>07</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Drug and alcohol dependence</Title>
+                <ISOAbbreviation>Drug Alcohol Depend</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>HIV treatment optimism and crystal methamphetamine use and initiation among HIV-negative men who have sex with men in Vancouver, Canada: A longitudinal analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>67-74</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0376-8716(18)30021-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.drugalcdep.2017.12.004</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Treatment as Prevention (TasP) leading to increased HIV treatment optimism among men who have sex with men (MSM) has been previously associated with behavioural risk compensation, though not yet via crystal methamphetamine (CM) use. Among HIV-negative MSM in a TasP environment, this study aimed to investigate the prevalence of recent CM use over time, examine the association between HIV treatment optimism and CM use and initiation, and identify correlates of recent CM use and predictors of CM initiation.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Using data from a prospective behavioural cohort study of sexually active MSM in the Vancouver area, we used multi-level generalized mixed effect models to evaluate temporal trends in CM use, univariable and multivariable logistic regression to identify covariates of recent CM use, and univariable and multivariable survival analysis to identify predictors of CM initiation.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Of 497 HIV-negative cohort participants, 10.3% reported any recent CM use at enrollment. From 2012-2016, there were no statistically significant temporal trends in overall CM use or with routes of administration. In multivariable logistic regression analyses, HIV treatment optimism was not associated with recent CM use (not retained in final model) or CM initiation (aHR = 1.06, 95% CI:0.98-1.15). Significant correlates of CM use include recent gamma-hydroxybutyrate (GHB) and ecstasy use, and having received/given drugs for sex.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Among HIV-negative MSM in Vancouver, HIV treatment optimism does not appear to be independently associated with CM use or initiation of use, though use of CM was both prevalent and stable over time.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Colyer</LastName>
+                    <ForeName>Sean P</ForeName>
+                    <Initials>SP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>British Columbia Centre for Excellence in HIV/AIDS, Vancouver, Canada; Department of Epidemiology, Biostatistics, and Occupational Health, McGill University, Montreal, Canada. Electronic address: sean.colyer@mail.mcgill.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lachowsky</LastName>
+                    <ForeName>Nathan J</ForeName>
+                    <Initials>NJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>British Columbia Centre for Excellence in HIV/AIDS, Vancouver, Canada; School of Public Health and Social Policy, University of Victoria, Victoria, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cui</LastName>
+                    <ForeName>Zishan</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>British Columbia Centre for Excellence in HIV/AIDS, Vancouver, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Julia</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>British Columbia Centre for Excellence in HIV/AIDS, Vancouver, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Armstrong</LastName>
+                    <ForeName>Heather L</ForeName>
+                    <Initials>HL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>British Columbia Centre for Excellence in HIV/AIDS, Vancouver, Canada; Department of Medicine, University of British Columbia, Vancouver, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Taylor</LastName>
+                    <ForeName>Matthew</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Health Initiative for Men, Vancouver, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Edward</LastName>
+                    <ForeName>Joshua</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Health Initiative for Men, Vancouver, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olarewaju</LastName>
+                    <ForeName>Gbolahan</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>British Columbia Centre for Excellence in HIV/AIDS, Vancouver, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hogg</LastName>
+                    <ForeName>Robert S</ForeName>
+                    <Initials>RS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>British Columbia Centre for Excellence in HIV/AIDS, Vancouver, Canada; Faculty of Health Sciences, Simon Fraser University, Burnaby, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roth</LastName>
+                    <ForeName>Eric A</ForeName>
+                    <Initials>EA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anthropology at the University of Victoria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moore</LastName>
+                    <ForeName>David M</ForeName>
+                    <Initials>DM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>British Columbia Centre for Excellence in HIV/AIDS, Vancouver, Canada; Department of Medicine, University of British Columbia, Vancouver, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Drug Alcohol Depend</MedlineTA>
+            <NlmUniqueID>7513587</NlmUniqueID>
+            <ISSNLinking>0376-8716</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Gay and bisexual men</Keyword>
+            <Keyword MajorTopicYN="N">HIV treatment optimism</Keyword>
+            <Keyword MajorTopicYN="N">HIV/AIDS</Keyword>
+            <Keyword MajorTopicYN="N">Men who have sex with men (MSM)</Keyword>
+            <Keyword MajorTopicYN="N">Methamphetamine</Keyword>
+            <Keyword MajorTopicYN="N">Treatment as prevention (TasP)</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>08</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29427917</ArticleId>
+            <ArticleId IdType="pii">S0376-8716(18)30021-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.drugalcdep.2017.12.004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29427743</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0542</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>07</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Immunology letters</Title>
+                <ISOAbbreviation>Immunol. Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The role of latency reversal agents in the cure of hiv: A review of current data.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0165-2478(18)30014-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.imlet.2018.02.004</ELocationID>
+            <Abstract>
+                <AbstractText>The definitive cure for human immunodeficiency virus type-1 (HIV) infection is represented by the eradication of the virus from the patient's body. To reach this result, cells that are infected but do not produce the virus must become recognizable to be killed by the immune system. For this purpose, drugs defined &quot;latency reverting agents&quot; (LRA) that reactivate viral production are under investigation. A few clinical studies have been performed in HIV-infected patients treated with LRA and combined antiretroviral therapy (cART). The strategy is thus to combine cART and LRA to reactivate the virus and unmask latently infected cells that, because of cART, cannot produce a fully competent form of the virus. Unmasked cells can present viral antigens to the immune system, that ultimately recognizes and kills such latently infected cells. This review reports and discusses recent studies that have been published on this topic.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 European Federation of Immunological Societies. Published by Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bashiri</LastName>
+                    <ForeName>Kiandokht</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Center for Immunodeficiencies, Children's Medical Center, Tehran University of Medical Sciences, Dr. Qarib St, Keshavarz Blvd Tehran 14194, Iran; Border of Immune Tolerance Education and Research Network (BITERN), Universal Scientific Education and Research Network (USERN), Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rezaei</LastName>
+                    <ForeName>Nima</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Center for Immunodeficiencies, Children's Medical Center, Tehran University of Medical Sciences, Dr. Qarib St, Keshavarz Blvd Tehran 14194, Iran; Border of Immune Tolerance Education and Research Network (BITERN), Universal Scientific Education and Research Network (USERN), Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nasi</LastName>
+                    <ForeName>Milena</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Medicine, Dentistry and Morphological Sciences, University of Modena and Reggio Emilia, Modena, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cossarizza</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical and Surgical Sciences for Children and Adults, University of Modena and Reggio Emilia, Modena, Italy. Electronic address: andrea.cossarizza@unimore.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Immunol Lett</MedlineTA>
+            <NlmUniqueID>7910006</NlmUniqueID>
+            <ISSNLinking>0165-2478</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">HDAC inhibitor</Keyword>
+            <Keyword MajorTopicYN="N">HIV</Keyword>
+            <Keyword MajorTopicYN="N">Latency</Keyword>
+            <Keyword MajorTopicYN="N">Resting CD4+ T Cells</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29427743</ArticleId>
+            <ArticleId IdType="pii">S0165-2478(18)30014-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.imlet.2018.02.004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29427516</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1521-4141</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>10</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European journal of immunology</Title>
+                <ISOAbbreviation>Eur. J. Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mechanisms of CD8+ T cell-mediated suppression of HIV/SIV replication.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/eji.201747172</ELocationID>
+            <Abstract>
+                <AbstractText>In this article, we summarize the role of CD8+ T cells during natural and ART-treated HIV and SIV infections, discuss the mechanisms responsible for their suppressive activity, and review the rationale for CD8+ T cell-based HIV cure strategies. Evidence suggests that CD8+ T cells are involved in the control of virus replication during HIV and SIV infections. During early HIV infection, the cytolytic activity of CD8+ T cells is responsible for control of viremia. However, it has been proposed that CD8+ T cells also use non-cytolytic mechanisms to control SIV infection. More recently, CD8+ T cells were shown to be required to fully suppress virus production in ART-treated SIV-infected macaques, suggesting that CD8+ T cells are involved in the control of virus transcription in latently infected cells that persist under ART. A better understanding of the complex antiviral activities of CD8+ T cells during HIV/SIV infection will pave the way for immune interventions aimed at harnessing these functions to target the HIV reservoir. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>McBrien</LastName>
+                    <ForeName>Julia Bergild</ForeName>
+                    <Initials>JB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Emory Vaccine Center and Yerkes National Primate Research Center, Emory University, Atlanta, GA, 30329, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kumar</LastName>
+                    <ForeName>Nitasha A</ForeName>
+                    <Initials>NA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Emory Vaccine Center and Yerkes National Primate Research Center, Emory University, Atlanta, GA, 30329, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Silvestri</LastName>
+                    <ForeName>Guido</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Emory Vaccine Center and Yerkes National Primate Research Center, Emory University, Atlanta, GA, 30329, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Eur J Immunol</MedlineTA>
+            <NlmUniqueID>1273201</NlmUniqueID>
+            <ISSNLinking>0014-2980</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CD8 T cells</Keyword>
+            <Keyword MajorTopicYN="N">HIV</Keyword>
+            <Keyword MajorTopicYN="N">cytotoxicity</Keyword>
+            <Keyword MajorTopicYN="N">immune response</Keyword>
+            <Keyword MajorTopicYN="N">infectious disease</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29427516</ArticleId>
+            <ArticleId IdType="doi">10.1002/eji.201747172</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">29427485</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1478-3231</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>38 Suppl 1</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Liver international : official journal of the International Association for the Study of the Liver</Title>
+                <ISOAbbreviation>Liver Int.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Treatment of hepatitis C: the use of the new pangenotypic direct-acting antivirals in &quot;special populations&quot;.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>28-33</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/liv.13626</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND &amp; AIMS" NlmCategory="OBJECTIVE">The recommended combination of pangenotypic direct-acting antivirals (DAAs) for the treatment of hepatitis C virus (HCV) associates the co-formulation of 2 or 3 second-generation DAAs. In the so-called &quot;special populations&quot; defined as patients with chronic kidney disease (CKD), HCV/HIV co-infection, HCV/HBV co-infection and an unsuccessful previous DAA regimen, these combinations have a high antiviral potency (sustained virologic response (SVR) &gt; 95%), fair tolerance and a reduced pill burden.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We have taken into account the scientific evidence on the treatment of &quot;special populations&quot;, in particular from the RUBY 1-2 trials, EXPEDITION 2-4 study, C-WORTHY trial, ASTRAL 5, POLARIS 1-4 studies, MAGELLAN 1 and REVENGE study.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">CKD and HCV/HIV co-infection are not predictors of a non-viral response. The glecaprevir/pibentrasvir (Maviret) combination appears to be the first-line therapy for CKD patients while the sofosbuvir/vlpatasvir/voxaliprevir (Sovesi) combination is the first-line option for DAAs failures. Both are effective in patients with HIV-or HBV-HCV co-infection and should be chosen according to the potential drug-drug interaction profile.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The notion of &quot;special populations&quot; is no longer pertinent with pangenotypic DAAs combinations. International guidelines recommend treating all infected patients and the next challenge is not the therapeutic choice, but to improve the limitations for screening and access to care in HCV infection.</AbstractText>
+                <CopyrightInformation>© 2018 John Wiley &amp; Sons A/S. Published by John Wiley &amp; Sons Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pol</LastName>
+                    <ForeName>Stanislas</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9772-9591</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Hepatology Department, Université Paris Descartes, Cochin hospital, APHP, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>INSERM U1223 and Center for Translational Science, Institut Pasteur, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Parlati</LastName>
+                    <ForeName>Lucia</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hepatology Department, Université Paris Descartes, Cochin hospital, APHP, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Liver Int</MedlineTA>
+            <NlmUniqueID>101160857</NlmUniqueID>
+            <ISSNLinking>1478-3223</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">DAA failures</Keyword>
+            <Keyword MajorTopicYN="N">HBV-HCV co-infection</Keyword>
+            <Keyword MajorTopicYN="N">HIV-HCV co-infection</Keyword>
+            <Keyword MajorTopicYN="N">direct-acting antivirals</Keyword>
+            <Keyword MajorTopicYN="N">hepatitis C virus</Keyword>
+            <Keyword MajorTopicYN="N">kidney failure</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29427485</ArticleId>
+            <ArticleId IdType="doi">10.1111/liv.13626</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">29427481</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1478-3231</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>38 Suppl 1</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Liver international : official journal of the International Association for the Study of the Liver</Title>
+                <ISOAbbreviation>Liver Int.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Treatment of hepatitis C: Results in real life.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>21-27</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/liv.13638</ELocationID>
+            <Abstract>
+                <AbstractText>Direct-acting antivirals (DAAs) have transformed traditional treatment options for hepatitis C virus (HCV) infection. DAA combinations have been shown to be highly effective in reducing the burden of chronic HCV infection in clinical trials and have been recommended by the European Association for the Study of the Liver (EASL) treatment guidelines. This review examines the results of second-generation DAA combinations in real-life clinical practice in patients with genotypes 1-3 and in those co-infected with HIV (real-world data in genotypes 4-6 are rare). Second generation DAAs (sofosbuvir plus daclatasvir, sofosbuvir/ledipasvir, ombitasvir/paritaprevir/ritonavir plus dasabuvir, sofosbuvir plus velpatasvir, glecaprevir plus pibrentasvir, grazoprevir plus elbasvir) have very high SVR rates and good safety profiles, higher resistance barriers and are more convenient. Real-world data in all 3 genotypes generally support the EASL guidelines and high overall sustained virological response rates are reported with recommended regimens. However, real-world data are only available for sofosbuvir plus daclatasvir, sofosbuvir/ledipasvir, ombitasvir/paritaprevir/ritonavir plus dasabuvir. Furthermore, because of the existing level of evidence, it is difficult to define optimal regimens based on real-world data (ie, treatment duration, when to include ribavirin and options for patients with cirrhosis). The real-life challenges of managing HIV-coinfected patients are also discussed showing the additional burden of avoiding drug-drug interactions between DAAs and antiretrovirals.</AbstractText>
+                <CopyrightInformation>© 2018 John Wiley &amp; Sons A/S. Published by John Wiley &amp; Sons Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hézode</LastName>
+                    <ForeName>Christophe</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6762-8033</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hepatology, Hôpital Henri Mondor, Université Paris-Est, Créteil, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Liver Int</MedlineTA>
+            <NlmUniqueID>101160857</NlmUniqueID>
+            <ISSNLinking>1478-3223</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">direct-acting antiviral</Keyword>
+            <Keyword MajorTopicYN="N">hepatitis C</Keyword>
+            <Keyword MajorTopicYN="N">real-world</Keyword>
+            <Keyword MajorTopicYN="N">sustained virological response</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29427481</ArticleId>
+            <ArticleId IdType="doi">10.1111/liv.13638</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29427444</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1096-9071</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>10</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical virology</Title>
+                <ISOAbbreviation>J. Med. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>ANTIBODY RESPONSE TO HEPATITIS B VACCINE IN HIV-EXPOSED INFANTS IN MALAWI AND CORRELATION WITH HBV INFECTION ACQUISITION.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/jmv.25049</ELocationID>
+            <Abstract>
+                <AbstractText>The aim of this study was to assess the immune response to HBV vaccine in HIV-exposed infants and to correlate it to HBV infection acquisition. Protective anti-HBs levels (&gt; 10 mIU/ml) were found in 54/58 (93.2%) infants at 6 months, 126/144 (87.5%) at 12 months and 141/176 (80.1%) children at 24 months. HBV infection (7 children were HBsAg+ at Month 24) occurred also in the presence of levels above 10 mIU/ml. Our findings indicate limited impact of HIV exposure on anti-HBV immune response, but suggest that levels &gt; 10 mIU/ml may be required to confer protection in this context. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mancinelli</LastName>
+                    <ForeName>Sandro</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedicine and Prevention, University of Rome Tor Vergata, Via Montpellier 1, 00133 Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pirillo</LastName>
+                    <ForeName>Maria Franca</ForeName>
+                    <Initials>MF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Center for Global Health, Istituto Superiore di Sanità, Viale Regina Elena 299, 00161 Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liotta</LastName>
+                    <ForeName>Giuseppe</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedicine and Prevention, University of Rome Tor Vergata, Via Montpellier 1, 00133 Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Andreotti</LastName>
+                    <ForeName>Mauro</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Center for Global Health, Istituto Superiore di Sanità, Viale Regina Elena 299, 00161 Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mphwere</LastName>
+                    <ForeName>Robert</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>DREAM Program, Community of S. Egidio, PO Box 30355 Blantyre, Malawi.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Amici</LastName>
+                    <ForeName>Roberta</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Center for Global Health, Istituto Superiore di Sanità, Viale Regina Elena 299, 00161 Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marazzi</LastName>
+                    <ForeName>Maria Cristina</ForeName>
+                    <Initials>MC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Human Sciences, LUMSA University, Via Transpontina 21, 00193 Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vella</LastName>
+                    <ForeName>Stefano</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Center for Global Health, Istituto Superiore di Sanità, Viale Regina Elena 299, 00161 Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Palombi</LastName>
+                    <ForeName>Leonardo</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedicine and Prevention, University of Rome Tor Vergata, Via Montpellier 1, 00133 Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Giuliano</LastName>
+                    <ForeName>Marina</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Center for Global Health, Istituto Superiore di Sanità, Viale Regina Elena 299, 00161 Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Med Virol</MedlineTA>
+            <NlmUniqueID>7705876</NlmUniqueID>
+            <ISSNLinking>0146-6615</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">HBV</Keyword>
+            <Keyword MajorTopicYN="N">HBV vaccine</Keyword>
+            <Keyword MajorTopicYN="N">HIV-exposed infants</Keyword>
+            <Keyword MajorTopicYN="N">sub-Saharan Africa</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29427444</ArticleId>
+            <ArticleId IdType="doi">10.1002/jmv.25049</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29427399</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1751-553X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>10</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of laboratory hematology</Title>
+                <ISOAbbreviation>Int J Lab Hematol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The utility of bone marrow sampling in the diagnosis and staging of lymphoma in South Africa.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/ijlh.12782</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">The bone marrow biopsy (BMB) is a diagnostic and staging tool in lymphoma that remains practically useful and relevant in resource-constrained settings, despite restricted applications in international staging guidelines, which favour less invasive nuclear medicine techniques.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Retrospective laboratory data review of BMBs in adult lymphoma patients from 2005 to 2010 to determine subtypes, rates of bone marrow involvement (BMI), human immunodeficiency virus (HIV) seroprevalence and CD4 counts, trephine length and additional findings.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 1215 BMBs reported in lymphoma included 759 newly diagnosed patients, with BMI in 43.6% of non-Hodgkin lymphoma (NHL) overall, 28.9% of high-grade B subtypes and 35.7% of Hodgkin lymphoma (HL). HIV seroprevalence was 38.8%, 53.0% and 33.9% in the 3 respective groups. There was a statistical association between BMI and HIV seropositivity in Burkitt lymphoma and HL, and BMI and CD4 count in HIV-related HL. Over 10% (n = 79) of new lymphoma cases were diagnosed by BMB with ancillary tests. Occasional histological discordance and transformation were reported in NHL. Focal/unilateral BMI was uncommon. Bilateral BMB and biopsy length exceeding 26 mm did not improve BMI detection.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">In the South African public sector, high HIV prevalence leads to a different lymphoma pathology profile from the developed world. High BMI rates are encountered. Here, and in similar resource-constrained settings, international lymphoma staging guidelines can be logistically challenging and unaffordable. BMB remains useful in the staging and diagnosis of lymphoma. Unilateral sampling with a processed trephine length of at least 26 mm is recommended.</AbstractText>
+                <CopyrightInformation>© 2018 John Wiley &amp; Sons Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Phillips</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-2897-9874</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Haematology, Red Cross War Memorial Children's Hospital Laboratory, National Health Laboratory Service, Cape Town, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Haematology, Department of Pathology, University of Cape Town, Cape Town, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Opie</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Haematology, Department of Pathology, University of Cape Town, Cape Town, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Haematology, Groote Schuur Hospital Laboratory, National Health Laboratory Service, Cape Town, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Int J Lab Hematol</MedlineTA>
+            <NlmUniqueID>101300213</NlmUniqueID>
+            <ISSNLinking>1751-5521</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">HIV</Keyword>
+            <Keyword MajorTopicYN="N">bone marrow biopsy</Keyword>
+            <Keyword MajorTopicYN="N">bone marrow involvement</Keyword>
+            <Keyword MajorTopicYN="N">developing world</Keyword>
+            <Keyword MajorTopicYN="N">lymphoma staging</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29427399</ArticleId>
+            <ArticleId IdType="doi">10.1111/ijlh.12782</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29427281</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1865-7265</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>09</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical journal of gastroenterology</Title>
+                <ISOAbbreviation>Clin J Gastroenterol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Idiopathic chylous ascites in a patient with HIV infection: response to total parenteral nutrition and octreotide therapy.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s12328-018-0832-x</ELocationID>
+            <Abstract>
+                <AbstractText>The authors describe a 47-year-old man infected with human immunodeficiency virus admitted for ascites and weight loss. Ascitic fluid analysis revealed chylous ascites (triglycerides 444 mg/dl) with negative microbiological tests. Neoplasia, cardiac disease and liver cirrhosis were excluded after an extensive diagnostic workout. Exploratory laparotomy with tissue sampling did not clarify ascites etiology. During hospital admission, patient status gradually deteriorated, severe malnutrition developed and ascites became refractory to diuretics. Total parenteral nutrition and octreotide therapy were started and maintained for 3 weeks with ascites resolution and no relapse after oral diet resumption. Chylous ascites is a rare entity with several causes that compromise intra-abdominal lymphatic drainage. This case illustrates the difficulty in establishing etiology in some patients and the effectiveness of total parenteral nutrition plus octreotide therapy in idiopathic chylous ascites in HIV-infected patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nunes</LastName>
+                    <ForeName>Gonçalo</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gastroenterology Department, Hospital Garcia de Orta, Av. Torrado da Silva, 2805-267, Almada, Portugal. goncalo.n@hotmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fonseca</LastName>
+                    <ForeName>Cristina</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gastroenterology Department, Hospital Garcia de Orta, Av. Torrado da Silva, 2805-267, Almada, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barosa</LastName>
+                    <ForeName>Rita</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gastroenterology Department, Hospital Garcia de Orta, Av. Torrado da Silva, 2805-267, Almada, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Patita</LastName>
+                    <ForeName>Marta</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gastroenterology Department, Hospital Garcia de Orta, Av. Torrado da Silva, 2805-267, Almada, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gomes</LastName>
+                    <ForeName>André</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Infectiology Department, Hospital Garcia de Orta, Almada, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Botas</LastName>
+                    <ForeName>Júlio</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Infectiology Department, Hospital Garcia de Orta, Almada, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coelho</LastName>
+                    <ForeName>Hélder</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pathology Department, Hospital Garcia de Orta, Almada, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brito</LastName>
+                    <ForeName>Maria José</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pathology Department, Hospital Garcia de Orta, Almada, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fonseca</LastName>
+                    <ForeName>Jorge</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gastroenterology Department, Hospital Garcia de Orta, Av. Torrado da Silva, 2805-267, Almada, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>CiiEM, Center for Interdisciplinary Research Egas Moniz, Monte da Caparica, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Japan</Country>
+            <MedlineTA>Clin J Gastroenterol</MedlineTA>
+            <NlmUniqueID>101477246</NlmUniqueID>
+            <ISSNLinking>1865-7265</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Chylous ascites</Keyword>
+            <Keyword MajorTopicYN="N">Octreotide</Keyword>
+            <Keyword MajorTopicYN="N">Total parenteral nutrition</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29427281</ArticleId>
+            <ArticleId IdType="doi">10.1007/s12328-018-0832-x</ArticleId>
+            <ArticleId IdType="pii">10.1007/s12328-018-0832-x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29427233</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-3254</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>09</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>AIDS and behavior</Title>
+                <ISOAbbreviation>AIDS Behav</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>An Online Risk Index for the Cross-Sectional Prediction of New HIV Chlamydia, and Gonorrhea Diagnoses Across U.S. Counties and Across Years.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10461-018-2046-0</ELocationID>
+            <Abstract>
+                <AbstractText>The present study evaluated the potential use of Twitter data for providing risk indices of STIs. We developed online risk indices (ORIs) based on tweets to predict new HIV, gonorrhea, and chlamydia diagnoses, across U.S. counties and across 5 years. We analyzed over one hundred million tweets from 2009 to 2013 using open-vocabulary techniques and estimated the ORIs for a particular year by entering tweets from the same year into multiple semantic models (one for each year). The ORIs were moderately to strongly associated with the actual rates (.35 &lt; rs &lt; .68 for 93% of models), both nationwide and when applied to single states (California, Florida, and New York). Later models were slightly better than older ones at predicting gonorrhea and chlamydia, but not at predicting HIV. The proposed technique using free social media data provides signals of community health at a high temporal and spatial resolution.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chan</LastName>
+                    <ForeName>Man-Pui Sally</ForeName>
+                    <Initials>MS</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-2984-0487</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, University of Illinois at Urbana-Champaign, Champaign, IL, 61820, USA. sallycmp@illinois.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lohmann</LastName>
+                    <ForeName>Sophie</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, University of Illinois at Urbana-Champaign, Champaign, IL, 61820, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morales</LastName>
+                    <ForeName>Alex</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Computer Science, University of Illinois at Urbana-Champaign, Champaign, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhai</LastName>
+                    <ForeName>Chengxiang</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Computer Science, University of Illinois at Urbana-Champaign, Champaign, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ungar</LastName>
+                    <ForeName>Lyle</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Computer and Information Science, University of Pennsylvania, Philadelphia, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holtgrave</LastName>
+                    <ForeName>David R</ForeName>
+                    <Initials>DR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health, Johns Hopkins University, Baltimore, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Albarracín</LastName>
+                    <ForeName>Dolores</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, University of Illinois at Urbana-Champaign, Champaign, IL, 61820, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R56 AI114501</GrantID>
+                    <Agency>National Institutes of Health</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>AIDS Behav</MedlineTA>
+            <NlmUniqueID>9712133</NlmUniqueID>
+            <ISSNLinking>1090-7165</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Big data</Keyword>
+            <Keyword MajorTopicYN="N">Chlamydia</Keyword>
+            <Keyword MajorTopicYN="N">Gonorrhea</Keyword>
+            <Keyword MajorTopicYN="N">HIV</Keyword>
+            <Keyword MajorTopicYN="N">Social media</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29427233</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10461-018-2046-0</ArticleId>
+            <ArticleId IdType="pii">10.1007/s10461-018-2046-0</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29427232</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-3254</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>09</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>AIDS and behavior</Title>
+                <ISOAbbreviation>AIDS Behav</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Does Maternal HIV Disclosure Self-Efficacy Enhance Parent-Child Relationships and Child Adjustment?</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10461-018-2042-4</ELocationID>
+            <Abstract>
+                <AbstractText>Nondisclosure of maternal HIV status to young children can negatively impact child functioning; however, many mothers do not disclose due to lack of self-efficacy for the disclosure process. This study examines demographic variations in disclosure self-efficacy, regardless of intention to disclose, and assesses the relationship between self-efficacy and child adjustment via the parent-child relationship among a sample of HIV+ mothers and their healthy children (N = 181 pairs). Mothers completed demographic and self-efficacy measures; children completed measures assessing the parent-child relationship and child adjustment (i.e., worry, self-concept, depression). Across demographics, few mothers reported confidence in disclosure. Results from covariance structural modeling showed mothers endorsing higher self-efficacy had children who reported better relationship quality, and, in turn, reported fewer adjustment difficulties; higher levels of disclosure self-efficacy also directly predicted fewer adjustment problems. Findings offer support for interventions aimed at providing mothers with skills to enhance confidence for disclosing their HIV status.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Armistead</LastName>
+                    <ForeName>Lisa</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9673-3353</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, Georgia State University, P.O. Box 3999, Atlanta, GA, 30303-3999, USA. lparmistead@gsu.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goodrum</LastName>
+                    <ForeName>Nada</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, Georgia State University, P.O. Box 3999, Atlanta, GA, 30303-3999, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schulte</LastName>
+                    <ForeName>Marya</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of California-Los Angeles, Los Angeles, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marelich</LastName>
+                    <ForeName>William</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>California State University-Fullerton, Fullerton, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>LeCroix</LastName>
+                    <ForeName>Rebecca</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, Georgia State University, P.O. Box 3999, Atlanta, GA, 30303-3999, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murphy</LastName>
+                    <ForeName>Debra A</ForeName>
+                    <Initials>DA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of California-Los Angeles, Los Angeles, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01MH094233</GrantID>
+                    <Agency>National Institute of Mental Health</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01MH09418</GrantID>
+                    <Agency>National Institute of Mental Health</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>AIDS Behav</MedlineTA>
+            <NlmUniqueID>9712133</NlmUniqueID>
+            <ISSNLinking>1090-7165</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Disclosure self-efficacy</Keyword>
+            <Keyword MajorTopicYN="N">HIV disclosure</Keyword>
+            <Keyword MajorTopicYN="N">Parent–child relationship</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29427232</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10461-018-2042-4</ArticleId>
+            <ArticleId IdType="pii">10.1007/s10461-018-2042-4</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29427231</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-3254</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>09</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>AIDS and behavior</Title>
+                <ISOAbbreviation>AIDS Behav</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Acceptability of Peer-Delivered HIV Testing and Counselling Among Men Who Have Sex with Men (MSM) and Transgender Women (TW) in Myanmar.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10461-017-2022-0</ELocationID>
+            <Abstract>
+                <AbstractText>Men who have sex with men (MSM) and transgender women (TW) are a priority population for HIV prevention in Myanmar but report sub-optimal HIV testing frequency. Previous studies have shown that peer involvement in HIV testing can normalize stigmatized sexualities and reduce barriers to testing. We explored the acceptability of peer-delivered HIV testing among 425 undiagnosed MSM and TW in Yangon and Mandalay. An overwhelming majority of participants (86%) reported being 'comfortable/very comfortable' with peer-delivered HIV testing. Logistic regression identified reporting sexual identity as Apone [adjusted odds ratio (aOR) 3.8; 95% CI 1.2-11.7], recent HIV testing (aOR 3.1; 95% CI 1.4-6.5), reporting a high likelihood of HIV acquisition (aOR 3.6; 95% CI 1.7-7.6), and reporting ≥ 5 casual partners in the past 3 months (aOR 0.2; 95% CI 0.1-0.6) as associated with peer-delivered HIV testing acceptability. Given ongoing HIV vulnerability among MSM and TW in Myanmar, peer-delivered testing may offer prevention benefits by increasing testing rates and identifying undiagnosed infection earlier.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Veronese</LastName>
+                    <ForeName>Vanessa</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Disease Elimination Program, Burnet Institute, GPO Box 2284, Melbourne, VIC, 3001, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology and Preventive Medicine, Monash University, Melbourne, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oo</LastName>
+                    <ForeName>Zaw Min</ForeName>
+                    <Initials>ZM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Burnet Institute, Yangon, Myanmar.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thein</LastName>
+                    <ForeName>Zaw Win</ForeName>
+                    <Initials>ZW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Burnet Institute, Yangon, Myanmar.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aung</LastName>
+                    <ForeName>Poe Poe</ForeName>
+                    <Initials>PP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Burnet Institute, Yangon, Myanmar.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Draper</LastName>
+                    <ForeName>Bridget L</ForeName>
+                    <Initials>BL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Disease Elimination Program, Burnet Institute, GPO Box 2284, Melbourne, VIC, 3001, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology and Preventive Medicine, Monash University, Melbourne, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hughes</LastName>
+                    <ForeName>Chad</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Disease Elimination Program, Burnet Institute, GPO Box 2284, Melbourne, VIC, 3001, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology and Preventive Medicine, Monash University, Melbourne, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ryan</LastName>
+                    <ForeName>Claire</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Disease Elimination Program, Burnet Institute, GPO Box 2284, Melbourne, VIC, 3001, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Burnet Institute, Yangon, Myanmar.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pedrana</LastName>
+                    <ForeName>Alisa</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Disease Elimination Program, Burnet Institute, GPO Box 2284, Melbourne, VIC, 3001, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology and Preventive Medicine, Monash University, Melbourne, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nutrition, Harvard T.H Chan School of Public Health, Boston, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stoové</LastName>
+                    <ForeName>Mark</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Disease Elimination Program, Burnet Institute, GPO Box 2284, Melbourne, VIC, 3001, Australia. mark.stoove@burnet.edu.au.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology and Preventive Medicine, Monash University, Melbourne, Australia. mark.stoove@burnet.edu.au.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>n/a</GrantID>
+                    <Agency>Burnet Institute</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>AIDS Behav</MedlineTA>
+            <NlmUniqueID>9712133</NlmUniqueID>
+            <ISSNLinking>1090-7165</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">HIV testing and counseling</Keyword>
+            <Keyword MajorTopicYN="N">Men who have sex with men</Keyword>
+            <Keyword MajorTopicYN="N">Myanmar</Keyword>
+            <Keyword MajorTopicYN="N">Peer-delivered</Keyword>
+            <Keyword MajorTopicYN="N">Transgender women</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29427231</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10461-017-2022-0</ArticleId>
+            <ArticleId IdType="pii">10.1007/s10461-017-2022-0</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29427230</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-3254</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>09</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>AIDS and behavior</Title>
+                <ISOAbbreviation>AIDS Behav</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparison of Self-report to Biomarkers of Recent HIV Infection: Findings from the START Trial.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10461-018-2048-y</ELocationID>
+            <Abstract>
+                <AbstractText>Identifying individuals with recent HIV infection is critical to research related to viral reservoirs, outbreak investigations and intervention applications. A multi-assay algorithm (MAA) for recency of infection was used in conjunction with self-reported date of infection and documented date of diagnosis to estimate the number of participants recently infected in the Strategic Timing of AntiRetroviral Treatment (START) trial. We tested samples for three groups of participants from START using a MAA: (1) 167 individuals who reported being infected ≤ 6 months before randomization; (2) 771 individuals who did not know their date of infection but were diagnosed within 6 months before randomization; and (3) as controls for the MAA, 199 individuals diagnosed with HIV ≥ 2 years before randomization. Participants with low titer and avidity and a baseline viral load &gt; 400 copies/mL were classified as recently infected. A significantly higher percentage of participants who self-reported being infected ≤ 6 months were classified as recently infected compared to participants diagnosed ≥ 2 years (65% [109/167] vs. 2.5% [5/199], p &lt; 0.001). Among the 771 individuals who did not know their duration of infection at randomization, 206 (26.7%) were classified as recently infected. Among those diagnosed with HIV in the 6 months prior to enrollment, the 373 participants who reported recent infection (n = 167) or who had confirmed recent infection by the MAA (n = 206) differed significantly on a number of baseline characteristics from those who had an unknown date of infection and were not confirmed by the MAA (n = 565). Participants recently infected by self-report and/or MAA were younger, more likely to be Asian, less likely to be black, less likely to be heterosexual, more likely to be enrolled at sites in the U.S., Europe or Australia, and have higher HIV RNA levels. There was good agreement between self-report of recency of infection and the MAA. We estimate that 373 participants enrolled in START were infected within 6 months of randomization. Compared to those not recently infected, these participants were younger, had higher HIV RNA levels and were more likely to come from high income countries and from populations such as MSM with more regular HIV testing.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Schlusser</LastName>
+                    <ForeName>Katherine E</ForeName>
+                    <Initials>KE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Johns Hopkins University School of Medicine, 855 North Wolfe St., Rangos Building, room 538A, Baltimore, MD, 21205, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sharma</LastName>
+                    <ForeName>Shweta</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Biostatistics, School of Public Health, University of Minnesota, Minneapolis, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de la Torre</LastName>
+                    <ForeName>Pola</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cooper University Hospital, Camden, NJ, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tambussi</LastName>
+                    <ForeName>Giuseppe</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>IRCCS-Ospedale San Raffaele, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Draenert</LastName>
+                    <ForeName>Rika</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Section Clinical Infectious Diseases, Klinikum der Universität Munich, Medizinische Klinik IV, Munich, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pinto</LastName>
+                    <ForeName>Angie N</ForeName>
+                    <Initials>AN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Kirby Institute, UNSW Australia, Sydney, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Metcalf</LastName>
+                    <ForeName>Julia A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Clinical Research, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>German</LastName>
+                    <ForeName>Danielle</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health, Behavior and Society, Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Neaton</LastName>
+                    <ForeName>James D</ForeName>
+                    <Initials>JD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Biostatistics, School of Public Health, University of Minnesota, Minneapolis, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Laeyendecker</LastName>
+                    <ForeName>Oliver</ForeName>
+                    <Initials>O</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6429-4760</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Johns Hopkins University School of Medicine, 855 North Wolfe St., Rangos Building, room 538A, Baltimore, MD, 21205, USA. olaeyen1@jhmi.edu.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Intramural Research, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA. olaeyen1@jhmi.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>INSIGHT START Study Group</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>UM1-AI068641</GrantID>
+                    <Agency>National Institutes of Health</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UM1-AI120197</GrantID>
+                    <Agency>National Institutes of Health</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UM1 AI068613</GrantID>
+                    <Agency>National Institutes of Health</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>Division of Intramural Research</GrantID>
+                    <Agency>National Institute of Allergy and Infectious Diseases</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI095068</GrantID>
+                    <Agency>National Institute of Allergy and Infectious Diseases</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>AIDS Behav</MedlineTA>
+            <NlmUniqueID>9712133</NlmUniqueID>
+            <ISSNLinking>1090-7165</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Biomarkers</Keyword>
+            <Keyword MajorTopicYN="N">Recent HIV infection</Keyword>
+            <Keyword MajorTopicYN="N">START trial</Keyword>
+            <Keyword MajorTopicYN="N">Self-report</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29427230</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10461-018-2048-y</ArticleId>
+            <ArticleId IdType="pii">10.1007/s10461-018-2048-y</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29427049</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-7365</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>09</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Metabolic brain disease</Title>
+                <ISOAbbreviation>Metab Brain Dis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Favourable outcome in a child with symptomatic diagnosis of Glutaric aciduria type 1 despite vertical HIV infection and minor head trauma.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11011-018-0196-4</ELocationID>
+            <Abstract>
+                <AbstractText>The first case of Glutaric aciduria Type 1(GA1) in an African child was reported in 2001. GA1 has a prevalence of 1:5000 in black South Africans. Although early diagnosis is essential for a favourable outcome, newborn screening is not routine in South Africa where an estimated 320,000 children have HIV infection. Neurodevelopmental delay and encephalopathy are complications of both HIV and GA1. In such a setting it is important to recognise that HIV and GA1 can occur simultaneously. We present an HIV-infected South African male child of Xhosa descent with macrocephaly who commenced combination antiretroviral therapy (ART) at 8 weeks of age in a clinical trial which included a neurodevelopmental sub-study. He developed short-lived focal seizures at 16 months after minor head trauma. Neurological examination was normal. Neuroimaging showed temporal lobe atrophy, subtle hyperintense signal change in the globus pallidus, and focal haemosiderosis in the right Sylvian fissure region. As findings were not in keeping with HIV encephalopathy, a urine metabolic screen was undertaken which suggested GA1. Genetic testing confirmed Arg293Trp mutation. He began L-carnitine and a low protein diet as a restricted diet was not practicable. At 21 months he developed pulmonary tuberculosis, requiring 6 months treatment. He did not develop any neurologic motor symptoms. Serial neurodevelopmental and neuropsychological test scores until 9 years were similar to healthy neighbourhood controls, except for mild language delay at 3½ years. Detection of GA1, probably facilitated through participation in a clinical trial, was pivotal for a favourable outcome. The concomitant use of ART and anti-tuberculous therapy in a child with GA1 appears safe.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Thomas</LastName>
+                    <ForeName>Angeline</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Developmental Paediatrics, Department of Paediatrics and Child Health, Tygerberg Hospital and Stellenbosch University, Francie van Zijl Drive, Tygerberg, Cape Town, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dobbels</LastName>
+                    <ForeName>Els F M</ForeName>
+                    <Initials>EFM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Family Clinical Research Unit, Department of Paediatrics and Child Health, Tygerberg Hospital and Stellenbosch University, Francie van Zijl Drive, Tygerberg, Cape Town, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Springer</LastName>
+                    <ForeName>Priscilla E</ForeName>
+                    <Initials>PE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Developmental Paediatrics, Department of Paediatrics and Child Health, Tygerberg Hospital and Stellenbosch University, Francie van Zijl Drive, Tygerberg, Cape Town, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ackermann</LastName>
+                    <ForeName>Christelle</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Tygerberg Hospital and Stellenbosch University, Francie van Zijl Drive, Tygerberg, Cape Town, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cotton</LastName>
+                    <ForeName>Mark F</ForeName>
+                    <Initials>MF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Family Clinical Research Unit, Department of Paediatrics and Child Health, Tygerberg Hospital and Stellenbosch University, Francie van Zijl Drive, Tygerberg, Cape Town, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Laughton</LastName>
+                    <ForeName>Barbara</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Family Clinical Research Unit, Department of Paediatrics and Child Health, Tygerberg Hospital and Stellenbosch University, Francie van Zijl Drive, Tygerberg, Cape Town, South Africa. BL2@sun.ac.za.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>U19 A153217</GrantID>
+                    <Agency>National Institutes of Health</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HHSN272200800014c</GrantID>
+                    <Agency>National Institutes of Health</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HD071664</GrantID>
+                    <Agency>Eunice Kennedy Shriver National Institute of Child Health and Human Development</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Metab Brain Dis</MedlineTA>
+            <NlmUniqueID>8610370</NlmUniqueID>
+            <ISSNLinking>0885-7490</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Africa</Keyword>
+            <Keyword MajorTopicYN="N">Antiretroviral therapy</Keyword>
+            <Keyword MajorTopicYN="N">Children</Keyword>
+            <Keyword MajorTopicYN="N">Glutaric aciduria</Keyword>
+            <Keyword MajorTopicYN="N">HIV</Keyword>
+            <Keyword MajorTopicYN="N">Macrocephaly</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>08</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29427049</ArticleId>
+            <ArticleId IdType="doi">10.1007/s11011-018-0196-4</ArticleId>
+            <ArticleId IdType="pii">10.1007/s11011-018-0196-4</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29426734</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-2364</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Jan</Month>
+                        <Day>10</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuromuscular disorders : NMD</Title>
+                <ISOAbbreviation>Neuromuscul. Disord.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Inclusion body myositis and human immunodeficiency virus type 1: A new case report and literature review.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0960-8966(17)31156-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.nmd.2018.01.005</ELocationID>
+            <Abstract>
+                <AbstractText>Prevalence of muscle disease in human immunodeficiency virus (HIV) infection is less than 1% of patients with acquired immune deficiency syndrome. Sporadic inclusion body myositis (IBM) is observed in a few cases of patients infected by retroviruses such as HIV-1. A Caucasian man was diagnosed with HIV when he was 30 years old. The viral load was undetectable and CD4 cell count was 600/mm3 when the diagnosis of inclusion body myositis was confirmed. Histological findings were typical of IBM. The treatment consisted of immunoglobulin therapy for three years without effect. Twenty-two patients were found in the English and French literature. They are younger than those who suffer from IBM without HIV (median age = 47, range: 30 to 59), and they are mostly men with considerable serum creatine kinase (CK) elevation (median CK level = 1322 IU/L, range: 465 to 10270), most of them were treated with Zidovudine.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Couture</LastName>
+                    <ForeName>Priscille</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Assistance Publique-Hôpitaux de Paris, Hôpital Pitié-Salpêtrière, Département de Médecine Interne 2, Centre National de Référence des Maladies Auto-Immunes Systémiques et Rares. Institut E3M. 47-83 Boulevard de l'Hôpital, 75013, Paris, France. Electronic address: couture.priscille@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Malfatti</LastName>
+                    <ForeName>Edoardo</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Assistance Publique-Hôpitaux de Paris, Unité de Morphologie Neuromusculaire - Institut de myologie, Hôpital Pitié-Salpêtrière, 47-83 Boulevard de l'Hôpital, 75013, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morau</LastName>
+                    <ForeName>Geneviève</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Assistance Publique-Hôpitaux de Paris, Maladie infectieuse et tropicale, Hôpital Bichat Claude Bernard, 46 Rue Henri Huchard, 75018, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mathian</LastName>
+                    <ForeName>Alexis</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Assistance Publique-Hôpitaux de Paris, Hôpital Pitié-Salpêtrière, Département de Médecine Interne 2, Centre National de Référence des Maladies Auto-Immunes Systémiques et Rares. Institut E3M. 47-83 Boulevard de l'Hôpital, 75013, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cohen-Aubart</LastName>
+                    <ForeName>Fleur</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Assistance Publique-Hôpitaux de Paris, Hôpital Pitié-Salpêtrière, Département de Médecine Interne 2, Centre National de Référence des Maladies Auto-Immunes Systémiques et Rares. Institut E3M. 47-83 Boulevard de l'Hôpital, 75013, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nielly</LastName>
+                    <ForeName>Hubert</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Assistance Publique-Hôpitaux de Paris, Hôpital Pitié-Salpêtrière, Département de Médecine Interne 2, Centre National de Référence des Maladies Auto-Immunes Systémiques et Rares. Institut E3M. 47-83 Boulevard de l'Hôpital, 75013, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Amoura</LastName>
+                    <ForeName>Zahir</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Assistance Publique-Hôpitaux de Paris, Hôpital Pitié-Salpêtrière, Département de Médecine Interne 2, Centre National de Référence des Maladies Auto-Immunes Systémiques et Rares. Institut E3M. 47-83 Boulevard de l'Hôpital, 75013, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cherin</LastName>
+                    <ForeName>Patrick</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Assistance Publique-Hôpitaux de Paris, Hôpital Pitié-Salpêtrière, Département de Médecine Interne 2, Centre National de Référence des Maladies Auto-Immunes Systémiques et Rares. Institut E3M. 47-83 Boulevard de l'Hôpital, 75013, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Neuromuscul Disord</MedlineTA>
+            <NlmUniqueID>9111470</NlmUniqueID>
+            <ISSNLinking>0960-8966</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Human immunodeficiency virus type 1</Keyword>
+            <Keyword MajorTopicYN="N">Inclusion body myositis</Keyword>
+            <Keyword MajorTopicYN="N">Premature aging</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>07</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29426734</ArticleId>
+            <ArticleId IdType="pii">S0960-8966(17)31156-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.nmd.2018.01.005</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29426719</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2152-2669</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>02</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical lymphoma, myeloma &amp; leukemia</Title>
+                <ISOAbbreviation>Clin Lymphoma Myeloma Leuk</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Safety and Preliminary Efficacy of Vorinostat With R-EPOCH in High-risk HIV-associated Non-Hodgkin's Lymphoma (AMC-075).</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S2152-2650(17)30993-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.clml.2018.01.004</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Vorinostat (VOR), a histone deacetylase inhibitor, enhances the anti-tumor effects of rituximab (R) and cytotoxic chemotherapy, induces viral lytic expression and cell killing in Epstein-Barr virus-positive (EBV+) or human herpesvirus-8-positive (HHV-8+) tumors, and reactivates latent human immunodeficiency virus (HIV) for possible eradication by combination antiretroviral therapy (cART).</AbstractText>
+                <AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">We performed a phase I trial of VOR given with R-based infusional EPOCH (etoposide, prednisone, vincristine, cyclophosphamide, and doxorubicin hydrochloride) (n = 12) and cART in aggressive HIV-associated B-cell non-Hodgkin lymphoma (NHL) in order to identify safe dosing and schedule. VOR (300 or 400 mg) was given orally on days 1 to 5 with each cycle of R-EPOCH for 10 high-risk patients with diffuse large B-cell lymphoma (1 EBV+), 1 EBV+/HHV-8+ primary effusion lymphoma, and 1 unclassifiable NHL. VOR was escalated from 300 to 400 mg using a standard 3 + 3 design based on dose-limiting toxicity observed in cycle 1 of R-EPOCH.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The recommended phase II dose of VOR was 300 mg, with dose-limiting toxicity in 2 of 6 patients at 400 mg (grade 4 thrombocytopenia, grade 4 neutropenia), and 1 of 6 treated at 300 mg (grade 4 sepsis from tooth abscess). Neither VOR, nor cART regimen, significantly altered chemotherapy steady-state concentrations. VOR chemotherapy did not negatively impact CD4+ cell counts or HIV viral loads, which decreased or remained undetectable in most patients during treatment. The response rate in high-risk patients with NHL treated with VOR(R)-EPOCH was 100% (complete 83% and partial 17%) with a 1-year event-free survival of 83% (95% confidence interval, 51.6%-97.9%).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">VOR combined with R-EPOCH was tolerable and seemingly efficacious in patients with aggressive HIV-NHL.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 The Authors. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ramos</LastName>
+                    <ForeName>Juan C</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sylvester Comprehensive Cancer Center, University of Miami Miller School of Medicine, Miami, FL. Electronic address: jramos2@med.miami.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sparano</LastName>
+                    <ForeName>Joseph A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Montefiore Medical Center, Albert Einstein College of Medicine, Bronx, NY.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rudek</LastName>
+                    <ForeName>Michelle A</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins School of Medicine, Baltimore, MD.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moore</LastName>
+                    <ForeName>Page C</ForeName>
+                    <Initials>PC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Arkansas for Medical Sciences, Little Rock, AR.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cesarman</LastName>
+                    <ForeName>Ethel</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Weill Cornell Medicine, New York, NY.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reid</LastName>
+                    <ForeName>Erin G</ForeName>
+                    <Initials>EG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of California San Diego Moores Cancer Center, San Diego, CA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Henry</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Penn Hematology/Oncology Abramson Cancer Center, Pennsylvania Hospital, Philadelphia, PA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ratner</LastName>
+                    <ForeName>Lee</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Washington University School of Medicine, St. Louis, MO.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aboulafia</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Virginia Mason Medical Center and University of Washington, Seattle, WA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Jeanette Y</ForeName>
+                    <Initials>JY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Arkansas for Medical Sciences, Little Rock, AR.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ambinder</LastName>
+                    <ForeName>Richard F</ForeName>
+                    <Initials>RF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Johns Hopkins School of Medicine, Baltimore, MD.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mitsuyasu</LastName>
+                    <ForeName>Ronald</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>David Geffen School of Medicine, Los Angeles (UCLA), Los Angeles, CA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Noy</LastName>
+                    <ForeName>Ariela</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Memorial Sloan-Kettering Cancer Center and Weill Cornell Medical College, New York, NY.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Clin Lymphoma Myeloma Leuk</MedlineTA>
+            <NlmUniqueID>101525386</NlmUniqueID>
+            <ISSNLinking>2152-2669</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">AIDS-related malignancies</Keyword>
+            <Keyword MajorTopicYN="N">Chemotherapy</Keyword>
+            <Keyword MajorTopicYN="N">Epstein-Barr virus</Keyword>
+            <Keyword MajorTopicYN="N">Histone deacetylase inhibitors</Keyword>
+            <Keyword MajorTopicYN="N">Lytic-inducing therapies</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>07</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29426719</ArticleId>
+            <ArticleId IdType="pii">S2152-2650(17)30993-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.clml.2018.01.004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29426583</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1578-1275</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>06</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Atencion primaria</Title>
+                <ISOAbbreviation>Aten Primaria</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Use of new technologies by adolescents in the search for health information].</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0212-6567(16)30604-7</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.aprim.2017.06.005</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To describe Internet sources used by adolescents to consult health information and their sociodemographic characteristics, as well as to identify the variables that influence the choice of Internet site.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">Cross-sectional descriptive study. Survey adapted from the questionnaire validated by Rideout.</AbstractText>
+                <AbstractText Label="PARTICIPANTS AND LOCATION" NlmCategory="UNASSIGNED">Adolescents aged 12-18 from 4schools in rural municipalities.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The study included a total of 405 adolescents, of whom 51.6% were female, age 14.9 ± 1.2 years. Most of them (87.25%) live with both parents, and 93.6% have computers at home, with 45.2% in their rooms, and a mean of 2.1 computers/home. The large majority (85.2%) have Internet at home, with 76.3% in their room. A total of 53.8% sought health information 0.71 ± 0.91 h/week, seeking mainly information on: cancer (89.9%), addictions (67.7%), STIs and HIV (49.6%), pregnancies/contraception (21, 5%), mental illness (40%), heart disease and diabetes mellitus (53.6%), and eating disorders (39.3%). Google was chosen by 63.2%, and only 11.9% chose medical websites. Information was shared on social networks by 12.8% (70.3% Facebook). The information found led to a change of behaviour in 70.7%. Just over half (56.05%) preferred to use the Internet for: speed, 34.8%, privacy, 15.8%, reliability, 13.6%, and more information, 17.6%.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Adolescents seek information mainly through Google, with no knowledge of systems that accredit content quality, but consider it useful and reliable, changing their behaviour patterns according to the information found. All this carries a risk in this age group with very sensitive characteristics. Therefore, we believe that we should continue along the line of designing other alternative communication channels adapted to their current reality.</AbstractText>
+                <CopyrightInformation>Copyright © 2017 Elsevier España, S.L.U. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Blázquez Barba</LastName>
+                    <ForeName>Minerva</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>UGC La Palma del Condado, DSAP Condado-Campiña, Servicio Andaluz de Salud, Huelva, España. Electronic address: minblazquez@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gómez Romero</LastName>
+                    <ForeName>Dolores</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>UGC La Palma del Condado, DSAP Condado-Campiña, Servicio Andaluz de Salud, Huelva, España.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Frontaura Fernández</LastName>
+                    <ForeName>Isidora</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>UGC La Palma del Condado, DSAP Condado-Campiña, Servicio Andaluz de Salud, Huelva, España.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Camacho Ojeda</LastName>
+                    <ForeName>Abdón</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>UGC La Palma del Condado, DSAP Condado-Campiña, Servicio Andaluz de Salud, Huelva, España.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rodríguez Salas</LastName>
+                    <ForeName>Francisco M</ForeName>
+                    <Initials>FM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>UGC La Palma del Condado, DSAP Condado-Campiña, Servicio Andaluz de Salud, Huelva, España.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Toriz Cano</LastName>
+                    <ForeName>Higinio</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>UGC La Palma del Condado, DSAP Condado-Campiña, Servicio Andaluz de Salud, Huelva, España.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>spa</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Uso de Internet por los adolescentes en la búsqueda de información sanitaria.</VernacularTitle>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Spain</Country>
+            <MedlineTA>Aten Primaria</MedlineTA>
+            <NlmUniqueID>9111075</NlmUniqueID>
+            <ISSNLinking>0212-6567</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Adolescentes</Keyword>
+            <Keyword MajorTopicYN="N">Adolescents</Keyword>
+            <Keyword MajorTopicYN="N">Health information</Keyword>
+            <Keyword MajorTopicYN="N">Información sanitaria</Keyword>
+            <Keyword MajorTopicYN="N">Internet</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>12</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>04</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>06</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29426583</ArticleId>
+            <ArticleId IdType="pii">S0212-6567(16)30604-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.aprim.2017.06.005</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">29426508</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-3573</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>181</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>May</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Talanta</Title>
+                <ISOAbbreviation>Talanta</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A molecular beacon based on DNA-templated silver nanoclusters for the highly sensitive and selective multiplexed detection of virulence genes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>24-31</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0039-9140(17)31248-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.talanta.2017.12.049</ELocationID>
+            <Abstract>
+                <AbstractText>In this work, we develop a fluorescent molecular beacon based on the DNA-templated silver nanoclusters (DNA-Ag NCs). The skillfully designed molecular beacon can be conveniently used for detection of diverse virulence genes as long as the corresponding recognition sequences are embedded. Importantly, the constructed detection system allows simultaneous detection of multiple nucleic acids, which is attributed to non-overlapping emission spectra of the as-synthesized silver nanoclusters. Based on the target-induced fluorescence enhancement, three infectious disease-related genes HIV, H1N1, and H5N1 are detected, and the corresponding detection limits are 3.53, 0.12 and 3.95nM, respectively. This design allows specific, versatile and simultaneous detection of diverse targets with easy operation and low cost.</AbstractText>
+                <CopyrightInformation>Copyright © 2017 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Han</LastName>
+                    <ForeName>Dan</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Chemical Biology and Molecular Engineering of Ministry of Education, Institute of Molecular Science, Shanxi University, Taiyuan 030006, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wei</LastName>
+                    <ForeName>Chunying</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Chemical Biology and Molecular Engineering of Ministry of Education, Institute of Molecular Science, Shanxi University, Taiyuan 030006, PR China. Electronic address: weichuny@sxu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Talanta</MedlineTA>
+            <NlmUniqueID>2984816R</NlmUniqueID>
+            <ISSNLinking>0039-9140</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Biosensor</Keyword>
+            <Keyword MajorTopicYN="N">DNA-Ag NCs</Keyword>
+            <Keyword MajorTopicYN="N">H1N1</Keyword>
+            <Keyword MajorTopicYN="N">H5N1</Keyword>
+            <Keyword MajorTopicYN="N">HIV</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29426508</ArticleId>
+            <ArticleId IdType="pii">S0039-9140(17)31248-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.talanta.2017.12.049</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">29426385</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0272-9490</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>72</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2018 Mar/Apr</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The American journal of occupational therapy : official publication of the American Occupational Therapy Association</Title>
+                <ISOAbbreviation>Am J Occup Ther</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Development of an Item Pool Reflecting Cognitive Concerns Expressed by People With HIV.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>7202205070p1-7202205070p9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5014/ajot.2018.023945</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The overall aim of this study is to create an item pool reflecting the cognitive concerns expressed by people with HIV as a first step toward developing such a measure.</AbstractText>
+                <AbstractText Label="METHOD" NlmCategory="METHODS">Semiqualitative interviews with 292 people with HIV were carried out. Their concerns were mapped to neurocognitive domains to identify concern content areas and were compared with existing cognitive questionnaires. A questionnaire was developed to estimate the prevalence and importance of the items.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Sixty of 125 items were retained in the questionnaire based on ratings of their prevalence, importance, and clarity. Memory and behavioral and emotional concerns were the most common content areas (15 each); other domains were attention (7), executive function (6), language (5), and cognitive change (12).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">People living with HIV experience difficulties in all domains of cognition. By recognizing all domains, this new measure can help clinicians better understand areas of perceived cognitive difficulty and plan interventions accordingly.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Askari</LastName>
+                    <ForeName>Sorayya</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sorayya Askari, PhD, is Occupational Therapist, School of Physical and Occupational Therapy, Faculty of Medicine, McGill University, Montreal, Quebec, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fellows</LastName>
+                    <ForeName>Lesley</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Lesley Fellows, MD, DPhil, is Assistant Dean, Department of Neurology and Neurosurgery, Faculty of Medicine, McGill University, Montreal, Quebec, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brouillette</LastName>
+                    <ForeName>Marie-Josée</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Marie-Josée Brouillette, MD, is Associate Professor, Department of Psychiatry, Faculty of Medicine, McGill University, Montreal, Quebec, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moriello</LastName>
+                    <ForeName>Carolina</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Carolina Moriello, is Research Assistant, Division of Clinical Epidemiology, McGill University, Montreal, Quebec, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Duracinsky</LastName>
+                    <ForeName>Martin</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Martin Duracinsky, MD, PhD, is Scientific Director, Patient-Centered Outcomes Research, Université Paris Diderot, Sorbonne Paris Cité, France, and Médecin, Service de Médecine Interne et d'Immunologie Clinique, Hôpital Bicêtre, Assistance Publique Hôpitaux de Paris, Kremlin-Bicêtre, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mayo</LastName>
+                    <ForeName>Nancy E</ForeName>
+                    <Initials>NE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nancy E. Mayo, PhD, is James McGill Professor, School of Physical and Occupational Therapy, Faculty of Medicine, McGill University, Montreal, Quebec, Canada, and Research Scientist, Center of Outcome Research and Evaluation, Research Institute of McGill University Health Center, Montreal, Quebec, Canada; nancy.mayo@mcgill.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Occup Ther</MedlineTA>
+            <NlmUniqueID>7705978</NlmUniqueID>
+            <ISSNLinking>0272-9490</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29426385</ArticleId>
+            <ArticleId IdType="doi">10.5014/ajot.2018.023945</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">29426333</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1742-4755</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>09</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Reproductive health</Title>
+                <ISOAbbreviation>Reprod Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Contraceptive use and pregnancy rates among women receiving antiretroviral therapy in Malawi: a retrospective cohort study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>25</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12978-017-0440-0</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">In 2011, family planning (FP) services were integrated at Martin Preuss Centre (MPC), in urban Lilongwe, Malawi. To date, no previous study evaluated pregnancy rates among HIV-positive women after the integration of FP services into HIV care at the facility. In this study, we investigated whether integration of FP services into HIV clinical care led to increased use of contraceptives and decreased pregnancy rates.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">This was a retrospective cohort analysis of HIV-positive women from 15 to 49 years of age who accessed antiretroviral therapy (ART) services at MPC. Ascertainment of FP needs, contraceptive methods and pregnancy status were done at ART initiation, and at each ART follow-up visit. Women were offered a wide range of contraceptive methods. Outcomes of interest were contraceptive use and rate of pregnancy. Incident pregnancy was ascertained through patient self-reports during clinic consultation. Trends of contraceptive use and pregnancy rates were analyzed using chi-square (χ2).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 10,472 women were included in the analysis and contributed 15,700 person-years of observation. Contraceptive use among all women receiving ART increased from 28% in 2012 to 62% in 2016 (p &lt; 0.001). A total of 501 pregnancies occurred, including 13 multiple pregnancies, resulting in an overall pregnancy rates of 3.2 per 100 person-years. Rates of pregnancy decreased from 6.8 per 100 person-years in 2012 to 1.3 per 100 person-years in 2016 (p &lt; 0.001).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Integration of FP services into HIV care resulted in increased contraceptive use and, subsequently, decreased pregnancy rates in women receiving ART. HIV programs should consider offering FP services to women who are receiving ART.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tweya</LastName>
+                    <ForeName>Hannock</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The International Union Against Tuberculosis and Lung Disease, Paris, France. h_tweya@lighthouse.org.mw.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Lighthouse Trust, P.O. Box 106, Lilongwe, Malawi. h_tweya@lighthouse.org.mw.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Feldacker</LastName>
+                    <ForeName>Caryl</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>International Training and Education Center for Health, University of Washington, Seattle, WA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gugsa</LastName>
+                    <ForeName>Salem</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>International Training and Education Center for Health, University of Washington, Seattle, WA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Phiri</LastName>
+                    <ForeName>Sam</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Lighthouse Trust, P.O. Box 106, Lilongwe, Malawi.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, University of North Carolina School of Medicine, Chapel Hill, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Public Health, College of Medicine, School of Public Health and Family Medicine, University of Malawi, Blantyre, Malawi.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Reprod Health</MedlineTA>
+            <NlmUniqueID>101224380</NlmUniqueID>
+            <ISSNLinking>1742-4755</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Antiretroviral therapy</Keyword>
+            <Keyword MajorTopicYN="N">Contraceptives</Keyword>
+            <Keyword MajorTopicYN="N">Family planning services</Keyword>
+            <Keyword MajorTopicYN="N">HIV clinical care</Keyword>
+            <Keyword MajorTopicYN="N">Integration</Keyword>
+            <Keyword MajorTopicYN="N">Pregnancy rates</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>06</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29426333</ArticleId>
+            <ArticleId IdType="doi">10.1186/s12978-017-0440-0</ArticleId>
+            <ArticleId IdType="pii">10.1186/s12978-017-0440-0</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

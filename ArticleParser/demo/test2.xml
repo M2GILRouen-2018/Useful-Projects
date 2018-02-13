@@ -1,0 +1,200 @@
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">10022410</PMID>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0021-972X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>84</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of clinical endocrinology and metabolism</Title>
+                <ISOAbbreviation>J. Clin. Endocrinol. Metab.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Risk factors and long-term follow-up of adrenal incidentalomas.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>520-6</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The natural course of adrenal incidentalomas and the risk that such lesions evolve toward hormonal hypersecretion or malignancy are still under evaluation. Of 246 consecutive patients with adrenal incidentaloma studied at our institution in the last 15 yr, 91 underwent surgery. Of the remaining patients, a group of 75 (52 females and 23 males; median age, 56 yr; range, 19-77 yr) with incidentally discovered asymptomatic adrenal masses (60 unilateral and 15 bilateral; median diameter, 2.5 cm; range, 1.0-5.6) was enrolled in an endocrine and morphological follow-up of at least 2 yr after diagnosis (median, 4 yr; range, 2-10). During follow-up, no patients developed malignancy; 9 showed mass enlargement, with appearance of a new mass in the contralateral gland in 2; 3 developed adrenal hyperfunction (overt Cushing's syndrome in 2, nonclinical hypercortisolism in 1); and 3 showed adrenal mass enlargement associated with adrenal hyperfunction (nonclinical hypercortisolism in 2, pheochromocytoma in 1). The estimated cumulative risks to develop mass enlargement and hyperfunction were 8% and 4%, respectively, after 1 yr, 18% and 9.5% after 5 yr, and 22.8% and 9.5% after 10 yr. Nine risk factors for adrenal mass enlargement or hyperfunction were arbitrarily selected and evaluated: sex, age, presence of obesity, hypertension, diabetes, abnormal endocrine tests, mass size, mass location, and scintigraphic uptake pattern. Three of them attained statistical significance: mass size of 3 cm or more at diagnosis and exclusive radiocholesterol uptake by the mass at scintigraphy had relevance for the occurrence of adrenal hyperfunction, whereas the presence of endocrine test abnormalities at diagnosis had predictive value for mass enlargement. It is concluded that subtle hormonal abnormalities are risk factors for mass size increase, which is not a sign of malignant transformation. Both mass size of 3 cm or more at diagnosis and exclusive radiocholesterol uptake, indicating higher risks of hyperfunction, should be considered to plan a more thorough endocrine follow-up.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Barzon</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Endocrinology, University of Padova, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scaroni</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sonino</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fallo</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Paoletta</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boscaro</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Clin Endocrinol Metab</MedlineTA>
+            <NlmUniqueID>0375362</NlmUniqueID>
+            <ISSNLinking>0021-972X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>57B09Q7FJR</RegistryNumber>
+                <NameOfSubstance UI="D019314">Dehydroepiandrosterone Sulfate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7S5I7G3JQL</RegistryNumber>
+                <NameOfSubstance UI="D003907">Dexamethasone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9002-60-2</RegistryNumber>
+                <NameOfSubstance UI="D000324">Adrenocorticotropic Hormone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>WI4X0X7BPJ</RegistryNumber>
+                <NameOfSubstance UI="D006854">Hydrocortisone</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000306" MajorTopicYN="Y">Adrenal Cortex Neoplasms</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000311" MajorTopicYN="N">Adrenal Glands</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000308" MajorTopicYN="N">Adrenocortical Hyperfunction</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000324" MajorTopicYN="N">Adrenocorticotropic Hormone</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019314" MajorTopicYN="N">Dehydroepiandrosterone Sulfate</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003907" MajorTopicYN="N">Dexamethasone</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005500" MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006854" MajorTopicYN="N">Hydrocortisone</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000652" MajorTopicYN="N">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008279" MajorTopicYN="N">Magnetic Resonance Imaging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016019" MajorTopicYN="N">Survival Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014057" MajorTopicYN="N">Tomography, X-Ray Computed</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10022410</ArticleId>
+            <ArticleId IdType="doi">10.1210/jcem.84.2.5444</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

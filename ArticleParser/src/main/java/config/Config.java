@@ -1,3 +1,7 @@
+package config;
+
+import process.format.Format;
+
 import java.io.File;
 import java.util.*;
 
@@ -51,7 +55,7 @@ public class Config {
 
     // REQUETES
     /**
-     * Renvoie les formats gérés par cette configuration.
+     * Renvoie les format gérés par cette configuration.
      */
     public Set<Format> getFormats() {
         return Collections.unmodifiableSet(formats);
